@@ -1,0 +1,18 @@
+{
+  "default_branch": "dev",
+  "branches": [
+    "dev",
+    "fix/issue-1164-w10-b-009-refresh-flow-mints-a-new-api-key-each",
+    "origin"
+  ],
+  "parent": {
+    "dev": null,
+    "fix/issue-1164-w10-b-009-refresh-flow-mints-a-new-api-key-each": "dev",
+    "origin": "dev"
+  },
+  "order": [
+    "dev",
+    "fix/issue-1164-w10-b-009-refresh-flow-mints-a-new-api-key-each",
+    "origin"
+  ]
+}
